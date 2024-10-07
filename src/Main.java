@@ -11,3 +11,5 @@ public class Main {
         // umieram pawel zabij mnie prosze
     }
 }
+// Kocham PJATK
+// Bardzo chce do domu bardzo i nie chce jutro isc do pracy ani po jutrze na uczelnie
